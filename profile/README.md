@@ -8,8 +8,8 @@
 
 이 프로젝트는 [공공데이터 포털](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15138937#/API%20%EB%AA%A9%EB%A1%9D/realm)에서 제공하는 문화 정보 API를 활용하여 사용자에게 다양한 문화 콘텐츠를 제공합니다. 주요 기능은 다음과 같습니다:
 
-- **카테고리별 필터링**: 공연, 전시, 체험 등 관심 있는 카테고리 선택
-- **기간별 검색**: 원하는 날짜 범위 내의 이벤트 탐색
+- **카테고리별 필터링**: 공연, 전시, 체험 등 관심 있는 카테고리 선택  
+- **기간별 검색**: 원하는 날짜 범위 내의 이벤트 탐색  
 - **위치 기반 검색**:
   - 현재 위치 반경 내의 이벤트 찾기
   - 지정한 위치 주변의 이벤트 검색
@@ -18,10 +18,10 @@
 
 ## 🛠️ 기술 스택
 
+- **디자인**: [![프로젝트 피그마 링크 바로가기](https://img.shields.io/badge/Figma-Design-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/M7vaJPpIXCxeLjwZdNVy4K/llbootcamp_2nd?node-id=0-1)
 - **프론트엔드**: ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- **API**: [공공데이터 포털의 문화 정보 API](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15138937#/API%20%EB%AA%A9%EB%A1%9D/realm)
+- **API**: [![공공데이터 포털 API](https://img.shields.io/badge/공공데이터포털-한국문화정보원_한눈에보는문화정보조회서비스-0033a0?style=for-the-badge&logo=data&logoColor=white)](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15138937#/API%20목록/realm)
 - **지도 서비스**: ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) ![Google Places API](https://img.shields.io/badge/Google%20Places%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
-
 
 ---
 
@@ -39,18 +39,12 @@
 
 ---
 
-## 🎯 프로젝트 목표
+## 📸 실제 작동 화면
 
-- **사용자 친화적인 인터페이스**: 직관적인 UI/UX를 통해 누구나 쉽게 사용할 수 있는 서비스를 제공합니다.
-- **실시간 데이터 업데이트**: 공공데이터 포털의 최신 정보를 반영하여 사용자에게 신뢰성 있는 데이터를 제공합니다.
-- **접근성 강화**: 위치 기반 서비스를 통해 사용자 주변의 문화 이벤트를 손쉽게 탐색할 수 있도록 지원합니다.
+| 홈 화면 | 상세 페이지 | 위치 기반 검색 |
+|--------|-------------|----------------|
+| ![image](https://github.com/user-attachments/assets/7dafc0ee-c023-480b-9473-03ab14e69f13) | ![428273176-6693eb67-194a-46c0-9565-e1d084cce3c1](https://github.com/user-attachments/assets/180df4a3-ea88-4456-8f23-cbc7c355dbf6) | ![image](https://github.com/user-attachments/assets/1d876b98-f5a5-40d0-a0f3-025001cf44d6)|
 
----
-
-## 📅 프로젝트 일정
-
-1. **기획 단계**: 요구 사항 분석 및 서비스 구조 설계
-2. **디자인 단계**: 와이어프레임 및 UI 디자인
-3. **개발 단계**: 프론트엔드 및 백엔드 개발
+> 위 이미지는 실제 작동하는 프로그램의 화면 예시입니다.
 
 ---
